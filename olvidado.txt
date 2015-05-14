@@ -2,5 +2,5 @@ esto se me habia olvidado
 <<<<<<< HEAD
 en master 
 =======
-desarrollo
+abiababababaaababa
 >>>>>>> desarrollo
